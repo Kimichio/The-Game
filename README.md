@@ -1,2 +1,2 @@
 # The-Game
- First game together
+ First 2D game we are making together 
